@@ -1,5 +1,5 @@
 ls
-cd projects
+cd /home/ubuntu/projects/happy-birthday
 ls
 git pull origin main
 ls
