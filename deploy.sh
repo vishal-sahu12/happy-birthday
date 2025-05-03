@@ -1,12 +1,12 @@
-ls
+echo "============change dir================"
 cd /home/ubuntu/projects/happy-birthday
-ls
+echo "============pull=============
 git pull origin main
-ls
-cd birthday-website
-ls
+echo "=========Insatlling========="
 npm install
+echo "========build============="
 npm run build
+echo "========start============="
 npm run start
 
 
