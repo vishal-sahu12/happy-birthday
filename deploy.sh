@@ -8,5 +8,5 @@ echo "========build============="
 npm run build
 echo "========start============="
 npm run start
-
+echo "============end================"
 
