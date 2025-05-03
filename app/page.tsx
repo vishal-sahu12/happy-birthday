@@ -149,7 +149,7 @@ export default function Home() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-6xl md:text-8xl font-bold text-pink-600 mb-8"
           >
-            Happy Birthday!
+            Hey CutiePie I love you....
           </motion.h1>
           
           <motion.div
