@@ -181,7 +181,7 @@ export default function Home() {
               onClick={handleSurprise}
               className="px-8 py-4 bg-pink-500 text-white rounded-full text-xl font-semibold hover:bg-pink-600 transition-colors duration-300 shadow-lg hover:shadow-xl cursor-pointer"
             >
-              Click for a Surprise! 🎉
+              Click for a Surprise!. 🎉
             </motion.button>
           </motion.div>
         </motion.div>
