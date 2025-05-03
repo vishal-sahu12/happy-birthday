@@ -1,7 +1,9 @@
 echo "============change dir================="
-cd /home/ubuntu/projects/happy-birthday
+cd /home/ubuntu/happy-birthday
 echo "============pull=============
 git pull origin main
+echo "============change dir================="
+cd /home/ubuntu/happy-birthday
 echo "=========Insatlling========="
 npm install
 echo "========build============="
