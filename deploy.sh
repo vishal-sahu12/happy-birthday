@@ -1,4 +1,4 @@
-echo "============change dir================"
+echo "============change dir================="
 cd /home/ubuntu/projects/happy-birthday
 echo "============pull=============
 git pull origin main
